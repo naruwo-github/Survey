@@ -1,4 +1,4 @@
-## Discrete Geodesic Nets for Modeling Developable Surfaces
+## The Shape of Discrete Orthogonal Nets
 簡単に、適当な要約です。
 
 欠けている部分もあります。
